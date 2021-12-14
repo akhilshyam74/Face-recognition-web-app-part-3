@@ -1,0 +1,20 @@
+body{
+    color:black;
+    background-color: chartreuse;
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+.heading{
+    font-size: 22px;
+    font-family: Comic Sans MS;
+    font-style: bold;
+}
+.name_of_object{
+    font-size: 18px;
+    font-family: Comic Sans MS;
+    font-style: bold;
+    color: cornflowerblue;
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+   
